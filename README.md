@@ -1,4 +1,2 @@
-# hello-world
-Strating the account
+SE
 
-My name is Ignat Mihai and I love to eat :)
