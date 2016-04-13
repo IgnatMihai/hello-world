@@ -21,7 +21,7 @@ public class exerc3
 	* @author Ignat Mihai 1221F
 	* 
 	* 
-	* @version 0.1, 24 mai 2013
+	* @version 0.1
 	*/
 	public static void main(String[] args) throws InterruptedException {
     		
